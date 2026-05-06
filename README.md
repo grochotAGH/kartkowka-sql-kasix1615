@@ -30,7 +30,8 @@ Wykaż się umiejętnością zarządzania bazą danych MariaDB przy użyciu pane
 ## Oddanie zadania
 1.  Wyeksportuj bazę do pliku `magazyn_db.sql` i wgraj go do tego repozytorium.
 2.  Wklej zapytanie SQL poniżej.
+   
 
 ---
 ## Rozwiązanie SQL
-<<Tutaj wklej rozwiązanie>>
+SELECT * FROM `produkty` WHERE >100;
