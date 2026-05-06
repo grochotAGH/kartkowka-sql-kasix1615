@@ -34,4 +34,4 @@ Wykaż się umiejętnością zarządzania bazą danych MariaDB przy użyciu pane
 
 ---
 ## Rozwiązanie SQL
-SELECT * FROM `produkty` WHERE >100;
+SELECT * FROM produkty WHERE cena > 100;
